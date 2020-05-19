@@ -1,5 +1,6 @@
 **项目说明** 
 - renren-fast是一个轻量级的Java快速开发平台，能快速开发项目并交付【接私活利器】
+- 码云链接: https://gitee.com/renrenio/renren-fast-vue
 <br> 
  
 
